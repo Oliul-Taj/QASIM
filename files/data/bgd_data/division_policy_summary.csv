@@ -1,9 +1,0 @@
-division,status,current_score,target_score,cost_million_bdt,cost_tier,num_interventions,high_priority_count
-Barishal,RED,0.7895,0.5526,4708.8,HIGH,5,3
-Chattogram,GREEN,0.2578,0.1805,508.1,MEDIUM,2,1
-Dhaka,GREEN,0.2222,0.1555,535.1,MEDIUM,2,1
-Khulna,GREEN,0.3005,0.2104,440.8,MEDIUM,2,1
-Mymensingh,RED,0.6571,0.46,6206.6,HIGH,5,3
-Rajshahi,YELLOW,0.4822,0.3375,8325.7,HIGH,4,2
-Rangpur,RED,0.8785,0.6149,7617.9,HIGH,5,3
-Sylhet,YELLOW,0.3863,0.2704,3634.7,HIGH,3,1
