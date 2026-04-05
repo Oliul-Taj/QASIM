@@ -1,0 +1,84 @@
+	\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{xcolor}
+
+\geometry{margin=1in}
+
+\title{\textbf{Connectiva: Autonomous Regional Digital Divide Optimization Engine}}
+\author{\textbf{Team:} Antigravity \and \textbf{Hackathon:} ITU UMC Hackathon 2025}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+The global digital divide remains a profound socio-economic challenge. While dashboards can visualize connectivity statistics, policymakers require causal, predictive engines that dynamically link interventions to real-world impact. Connectiva bridges this gap by introducing a multi-dimensional, closed-loop machine learning framework for the 64 districts of Bangladesh. By integrating 154 International Telecommunication Union (ITU) indicators, BTRC broadband statistics, and BBS survey data, ConnectivaNet v4—parameterized by an Extra Trees Classifier ($F_1$ = 0.9842)—maps 22 socioeconomic and infrastructural features to targeted growth projections. This report details Connectiva's mathematical formulation, system architecture, data synchronization pipeline, and the iterative system evolution culminating in our final hackathon submission.
+\end{abstract}
+
+\section{Introduction}
+
+In conventional infrastructure planning, resource allocation relies heavily on static historical benchmarks. In contrast, Connectiva functions as a live digital organism. Driven by a Nodal Dependency Tree, it synthesizes three core policy constraints: Target Connectivity (%), Timeframe (Years), and Budget (\$M USD), outputting specific infrastructural roadmaps dynamically.
+
+Our hypothesis centered on the fact that an isolated infrastructure push (e.g., fiber backbone) cannot singularily overcome the divide if peripheral constraints (e.g., digital literacy or poverty incidence) remain untracked. Therefore, Connectiva incorporates 22 diverse engineered features, providing a holistic snapshot of true connectivity maturity.
+
+\section{Mathematical Formulation}
+
+\subsection{ConnectivaNet v4 Classifier}
+The platform utilizes an Extra Trees classification architecture fine-tuned to classify the 64 districts into three prioritization regimes (Red, Yellow, Green), relative to a user-defined Target Threshold $T$. Let the baseline connectivity for district $i$ be $C_i$. We assert the dynamic thresholds:
+\begin{align}
+    Status(C_i, T) = \begin{cases} 
+      \text{Green} & C_i \geq T \\
+      \text{Yellow} & T \times 0.55 \leq C_i < T \\
+      \text{Red} & C_i < T \times 0.55
+   \end{cases}
+\end{align}
+The model trains on a subset of features $\mathbf{X} \in \mathbb{R}^{64 \times 22}$. We avoid data leakage via Leave-Division-Out cross-validation across the 8 administrative divisions of Bangladesh.
+
+\subsection{Proportional-Integral-Derivative (PID) Growth Simulator}
+For long-term policy simulation over $N$ years, we bypass simple linear forecasting and employ a modified PID controller. Let the goal connectivity be $T$, and the simulated connectivity at year $t$ be $C_t$. We compute the growth increment $\Delta C_t$ as:
+\begin{align}
+    e(t) &= T - C_t \\
+    I_t &= \int_{0}^{t} e(\tau) \,d\tau \\
+    D_t &= \frac{de(t)}{dt} \approx e(t) - e(t-1) \\
+    \Delta C_t &= \min\left( K_p e(t) + K_i I_t + K_d D_t, \; \Delta_{max} \right)
+\end{align}
+Where we empirically defined $K_p = 0.6$, $K_i = 0.1$, $K_d = 0.05$. The capacity constraint $\Delta_{max} \approx 15\%$ prevents absurd, unrealistic single-year infrastructural booms.
+
+\section{System Architecture}
+
+Connectiva embraces a modern, microservice-inspired footprint:
+\begin{itemize}
+    \item \textbf{Backend Engine:} A Flask API handles real-time dataset ingestion, mapping district-level aggregations over CartoDB tiles. It dynamically recalculates predictions whenever policy simulators modify the 22 Multi-Variable Tool (MVT) weights.
+    \item \textbf{Data Pipeline Setup:} The backend fuses 4,876 subset rows from global ITU open datasets covering decades of international benchmarks with exact local statistics from BTRC.
+    \item \textbf{Interactive Intelligence UI:} A responsive React-Vite front-end offering geospatial topological maps, real-time KPI matrix cards, and dual-chart model comparison tools. It features dark/light transitions with native blending matrices to visually reinforce focus areas.
+\end{itemize}
+
+\section{Project Evolution and Iterations}
+
+Building Connectiva for the ITU UMC required progressive problem-solving and constant refactoring. Our iterative history highlights the maturity of our final submission:
+
+\begin{enumerate}
+    \item \textbf{Iteration 1 (Data Normalization):} Addressed the sparse coverage of pure national datasets by joining BTRC metrics with robust global ITU analogs. Solved mismatched boundary polygons between GeoJSON representations.
+    \item \textbf{Iteration 2 (Model Overfitting):} Initial Random Forest trials achieved high training accuracy but poor geographic generalization because of cluster bias (e.g., Dhaka district heavily skewing the signal). We migrated to \textit{Leave-Division-Out CV} and an Extra Trees classifier, achieving $F_1$ = 0.9842 purely on hold-out.
+    \item \textbf{Iteration 3 (Dynamic Scaling):} Fixed hard-coded slider thresholds (fixed $40$ to $100\%$) to dynamically map directly from real-world district minimums, ensuring interventions always scale relative to absolute minimum ground truth.
+    \item \textbf{Iteration 4 (Global Context Layer):} To validate the predictive assumptions within Bangladesh, we mapped out global benchmarks. The final iteration included the \textbf{Whole World Data Comparison} section, leveraging ITU tracking components (Global Bandwidth, Digital Gender Gap, Market Monopolies) natively in the UI.
+    \item \textbf{Iteration 5 (UX Interactivity):} Upgraded the spatial blink urgency logic (70\% priority distributed to worst yellows, 30\% to worst reds), optimized Map tooltips with sticky offsets, and integrated the "Section 4 Smart Policy Proposals" directly into downloadable HTML tracking endpoints.
+\end{enumerate}
+
+\section{Limitations \& Future Pathways}
+
+Despite achieving its core objectives, Connectiva faces intrinsic limitations surrounding hardware infrastructure reporting latency. BTRC tower location accuracy remains approximated to Upazila boundaries, requiring probabilistic weighting. Future optimizations involve integrating low-earth orbit (LEO) satellite heatmaps for real-time validation of offline-zones and shifting from regional-level aggregate predictions to granular hex-grid mapping.
+
+\section{Conclusion}
+
+Connectiva demonstrates exactly how global organizations and domestic regulators can shift from descriptive statistics to prescriptive, mathematical policy governance. By combining raw ITU telemetry with an interactive, PID-controlled machine learning framework, it empowers engineers to mathematically eradicate the digital divide.
+
+\end{document}

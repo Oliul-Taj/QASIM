@@ -1,0 +1,911 @@
+﻿"seriesID","seriesCode","seriesName","seriesParent","seriesUnits","entityID","entityIso","entityName","dataValue 1","dataValue 2","dataYear","dataNote","dataSource","seriesDescription","dataValue 3","dataValue 4","dataValue"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,6,"AFG","Afghanistan","Fibre","Satellite",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,6,"AFG","Afghanistan","Fibre","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,6,"AFG","Afghanistan","Satellite","Fibre",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,6,"AFG","Afghanistan","Satellite","Fibre",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,6,"AFG","Afghanistan","Fibre","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,7,"ZAF","South Africa","Submarine cable","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,7,"ZAF","South Africa","Fibre","Submarine cable",2018,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,7,"ZAF","South Africa","Fibre","Submarine cable",2019,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,7,"ZAF","South Africa","Fibre","Satellite",2021,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,7,"ZAF","South Africa","Fibre","Satellite",2022,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,7,"ZAF","South Africa","Submarine cable","Satellite",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,7,"ZAF","South Africa","Fibre","Submarine cable",2024,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,8,"AGO","Angola","Submarine cable","Satellite",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,8,"AGO","Angola","Satellite","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,8,"AGO","Angola","Submarine cable","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,10,"ALB","Albania","Other","Fibre",2017,"","","International landing points","Satellite","Submarine cable",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,10,"ALB","Albania","Satellite","Submarine cable",2018,"","","International landing points","Fibre","Other",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,10,"ALB","Albania","Fibre","Other",2019,"","","International landing points","Submarine cable","Satellite",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,10,"ALB","Albania","Other","Fibre",2020,"","","International landing points","Satellite","Submarine cable",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,10,"ALB","Albania","Other","Fibre",2021,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,10,"ALB","Albania","Other","Fibre",2022,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,10,"ALB","Albania","Submarine cable","Fibre",2023,"","","International landing points","Other",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,11,"DZA","Algeria","Submarine cable","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,11,"DZA","Algeria","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,11,"DZA","Algeria","Submarine cable","Fibre",2018,"Pour les câbles sous-marins , il y a le SMW4 et le ALPAL2pour la fibre optique,lien directe de Peering entre l'opérateur historique et Tunisie Télécom","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,11,"DZA","Algeria","Submarine cable","Satellite",2022,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,11,"DZA","Algeria","Fibre","Submarine cable",2023,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,11,"DZA","Algeria","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,14,"AND","Andorra",,,2015,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,14,"AND","Andorra",,,2018,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,14,"AND","Andorra",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,14,"AND","Andorra",,,2022,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,14,"AND","Andorra",,,2023,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,14,"AND","Andorra",,,2024,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,16,"ARG","Argentina",,,2019,"Sobre los cables submarinos: hay 4 cables en un mismo punto geografico (Las Toninas)","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,16,"ARG","Argentina",,,2020,"Sobre los cables submarinos: hay 4 cables en un mismo punto geografico (Las Toninas)","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,16,"ARG","Argentina",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,16,"ARG","Argentina",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,16,"ARG","Argentina",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,16,"ARG","Argentina",,,2024,"Sobre los cables submarinos hay 8 en un mismo punto geográfico (Las Toninas)","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,17,"ARM","Armenia",,,2015,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,17,"ARM","Armenia",,,2016,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,17,"ARM","Armenia",,,2017,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,17,"ARM","Armenia",,,2018,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,17,"ARM","Armenia",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,17,"ARM","Armenia",,,2020,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,17,"ARM","Armenia",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,17,"ARM","Armenia",,,2022,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,17,"ARM","Armenia",,,2023,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,17,"ARM","Armenia",,,2024,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,18,"SAU","Saudi Arabia","Fibre","Satellite",2015,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,18,"SAU","Saudi Arabia","Fibre","Submarine cable",2016,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,18,"SAU","Saudi Arabia","Fibre","Satellite",2017,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,18,"SAU","Saudi Arabia","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,18,"SAU","Saudi Arabia","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,18,"SAU","Saudi Arabia","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,18,"SAU","Saudi Arabia","Submarine cable","Satellite",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,18,"SAU","Saudi Arabia","Fibre","Satellite",2022,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,18,"SAU","Saudi Arabia","Submarine cable","Satellite",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,23,"AUS","Australia","Satellite","Submarine cable",2015,"Satellite stations is a baseline estimate.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,23,"AUS","Australia","Satellite","Submarine cable",2016,"This information isn't publicly available","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,23,"AUS","Australia","Submarine cable","Satellite",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,23,"AUS","Australia","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,23,"AUS","Australia","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,23,"AUS","Australia",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,23,"AUS","Australia",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,23,"AUS","Australia",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,23,"AUS","Australia",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,23,"AUS","Australia",,,2024,"Currently, there are 15 separate international submarine cables or cable systems landing in Australia.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,25,"AZE","Azerbaijan","Fibre","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,25,"AZE","Azerbaijan","Fibre","Satellite",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,25,"AZE","Azerbaijan","Satellite","Fibre",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,25,"AZE","Azerbaijan","Fibre","Satellite",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,25,"AZE","Azerbaijan","Fibre","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,25,"AZE","Azerbaijan","Fibre","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,25,"AZE","Azerbaijan","Fibre","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,25,"AZE","Azerbaijan","Fibre","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,25,"AZE","Azerbaijan","Fibre","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,27,"BRA","Brazil",,,2015,"One to Europe, one to USA and one to Argentina","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,27,"BRA","Brazil",,,2019,"Information not collected by the regulator. Source: https://www.submarinecablemap.com/","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,27,"BRA","Brazil",,,2020,"Information not collected by the regulator. Source: https://www.submarinecablemap.com/","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,27,"BRA","Brazil",,,2021,"Information not collected by the regulator. Source: https://www.submarinecablemap.com/","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,27,"BRA","Brazil",,,2022,"Information not collected by the regulator. Source: https://www.submarinecablemap.com/","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,28,"BHS","Bahamas","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,28,"BHS","Bahamas","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,29,"BDI","Burundi",,,2015,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,29,"BDI","Burundi",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,29,"BDI","Burundi",,,2020,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,29,"BDI","Burundi","Fibre","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,29,"BDI","Burundi","Fibre","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,29,"BDI","Burundi","Fibre","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,29,"BDI","Burundi","Fibre","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,30,"BEL","Belgium",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,31,"BEN","Benin",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,31,"BEN","Benin",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,31,"BEN","Benin",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,31,"BEN","Benin",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,31,"BEN","Benin","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,31,"BEN","Benin","Fibre","Satellite",2021,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,31,"BEN","Benin","Fibre","Satellite",2022,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,31,"BEN","Benin","Fibre","Submarine cable",2023,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,31,"BEN","Benin","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,33,"BFA","Burkina Faso","Fibre","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,33,"BFA","Burkina Faso","Satellite","Fibre",2019,"(Togo, Ghana, CI, Mauritanie via Mali)","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,33,"BFA","Burkina Faso","Satellite","Fibre",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,33,"BFA","Burkina Faso","Fibre","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,33,"BFA","Burkina Faso","Fibre","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,33,"BFA","Burkina Faso",,,2023,"(Ghana, Cote d'Ivoire, Togo, Bénin)","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,34,"BGD","Bangladesh","Satellite","Submarine cable",2022,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,35,"BHR","Bahrain","Satellite","Submarine cable",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,35,"BHR","Bahrain","Submarine cable","Satellite",2022,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,35,"BHR","Bahrain","Fibre","Submarine cable",2023,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,35,"BHR","Bahrain","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,37,"BLR","Belarus",,,2015,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,37,"BLR","Belarus",,,2016,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,37,"BLR","Belarus",,,2017,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,37,"BLR","Belarus",,,2018,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,37,"BLR","Belarus",,,2023,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,37,"BLR","Belarus",,,2024,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,38,"BLZ","Belize","Fibre","Submarine cable",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,38,"BLZ","Belize","Satellite","Submarine cable",2018,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,38,"BLZ","Belize","Fibre","Other",2023,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,39,"BOL","Bolivia (Plurinational State of)","Fibre","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,39,"BOL","Bolivia (Plurinational State of)","Fibre","Satellite",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,39,"BOL","Bolivia (Plurinational State of)","Fibre","Satellite",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,39,"BOL","Bolivia (Plurinational State of)","Satellite","Fibre",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,39,"BOL","Bolivia (Plurinational State of)","Fibre","Submarine cable",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,39,"BOL","Bolivia (Plurinational State of)","Fibre","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,39,"BOL","Bolivia (Plurinational State of)","Fibre","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,39,"BOL","Bolivia (Plurinational State of)","Fibre","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,39,"BOL","Bolivia (Plurinational State of)","Submarine cable","Fibre",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,40,"BWA","Botswana",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,40,"BWA","Botswana",,,2017,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,40,"BWA","Botswana",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,40,"BWA","Botswana",,,2020,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,40,"BWA","Botswana",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,40,"BWA","Botswana","Submarine cable","Fibre",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,40,"BWA","Botswana","Submarine cable","Fibre",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,40,"BWA","Botswana","Fibre","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,41,"BRB","Barbados",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,41,"BRB","Barbados",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,42,"MMR","Myanmar",,,2017,"Data not available yet","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,42,"MMR","Myanmar","Submarine cable","Fibre",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,42,"MMR","Myanmar","Fibre","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,42,"MMR","Myanmar","Fibre","Submarine cable",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,42,"MMR","Myanmar","Submarine cable","Fibre",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,42,"MMR","Myanmar","Fibre","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,42,"MMR","Myanmar","Fibre","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,42,"MMR","Myanmar","Fibre","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,43,"BRN","Brunei Darussalam",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,43,"BRN","Brunei Darussalam",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,43,"BRN","Brunei Darussalam",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,43,"BRN","Brunei Darussalam","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,43,"BRN","Brunei Darussalam","Satellite","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,43,"BRN","Brunei Darussalam","Satellite","Submarine cable",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,43,"BRN","Brunei Darussalam","Satellite","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,43,"BRN","Brunei Darussalam","Satellite","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,43,"BRN","Brunei Darussalam","Satellite","Submarine cable",2023,"For clarifications, there are four (4) submarine cables connecting Brunei:AAG - Asia America Gateway cableSJC - South East Asia Japan CableSMW3 - South East Asia Middle-East West Europe 3 cableLBC - Labuan Brunei Cable.These 4 submarine cable systems are landed in two cable landing stations in Brunei, namely the Tungku Submarine Cable Station and the Telisai Submarine Cable Station.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,43,"BRN","Brunei Darussalam","Submarine cable","Satellite",2024,"For clarifications, there are four (4) submarine cables connecting Brunei: AAG - Asia America Gateway cable SJC - South East Asia Japan Cable SMW3 - South East Asia Middle-East West Europe 3 cable LBC - Labuan Brunei Cable. These 4 submarine cable systems are landed in two cable landing stations in Brunei, namely the Tungku Submarine Cable Station and the Telisai Submarine Cable Station.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,45,"BGR","Bulgaria",,,2016,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,47,"CAN","Canada",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,47,"CAN","Canada",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,47,"CAN","Canada",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,48,"KHM","Cambodia","Fibre","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,48,"KHM","Cambodia","Fibre","Submarine cable",2016,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,48,"KHM","Cambodia","Fibre","Satellite",2017,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,48,"KHM","Cambodia","Submarine cable","Satellite",2018,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,48,"KHM","Cambodia","Submarine cable","Satellite",2019,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,48,"KHM","Cambodia","Fibre","Submarine cable",2020,"Satellite facility was previously operated by the sate own enterprise, Telecom Cambodia. Now it has been shutdown.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,48,"KHM","Cambodia","Submarine cable","Fibre",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,48,"KHM","Cambodia","Submarine cable","Fibre",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,48,"KHM","Cambodia","Fibre","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,48,"KHM","Cambodia","Fibre","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,49,"CHL","Chile",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,49,"CHL","Chile","Submarine cable","Fibre",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,49,"CHL","Chile","Fibre","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,49,"CHL","Chile","Fibre","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,49,"CHL","Chile","Fibre","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,49,"CHL","Chile","Fibre","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,50,"CHN","China","Fibre","Submarine cable",2015,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,50,"CHN","China","Fibre","Satellite",2016,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,50,"CHN","China","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,50,"CHN","China","Fibre","Submarine cable",2021,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,50,"CHN","China","Fibre","Submarine cable",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,50,"CHN","China","Fibre","Submarine cable",2023,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,53,"COL","Colombia",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,53,"COL","Colombia","Submarine cable","Satellite",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,53,"COL","Colombia","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,53,"COL","Colombia","Fibre","Satellite",2018,"Para satélite y fibra óptica no se tiene información disponible.","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,53,"COL","Colombia","Fibre","Satellite",2019,"Para satélite y fibra óptica no se tiene información disponible.","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,53,"COL","Colombia","Fibre","Submarine cable",2020,"Para satélite y fibra óptica no se tiene información disponible.","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,53,"COL","Colombia","Fibre","Submarine cable",2021,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,53,"COL","Colombia","Submarine cable","Satellite",2022,"Información no disponible por cantidades.","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,53,"COL","Colombia","Satellite","Submarine cable",2023,"Información no disponible por cantidades.","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,53,"COL","Colombia","Fibre","Submarine cable",2024,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,54,"LKA","Sri Lanka","Submarine cable","Satellite",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,54,"LKA","Sri Lanka",,,2017,"","","International landing points",,,"Satellite"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,54,"LKA","Sri Lanka","Submarine cable","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,54,"LKA","Sri Lanka","Satellite","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,54,"LKA","Sri Lanka","Submarine cable","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,55,"CMR","Cameroon","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,55,"CMR","Cameroon","Satellite","Submarine cable",2018,"4 point d'atterrissement: SAT3, WACS, NCSCS, SAIL. Ce dernier point n'est pas encore opérationnel.Le Cameroun est connecté par fibre optique avec le Tchad depuis 2012. La fibre optique est entrain d'être déployée vers les frontières avec tous les autres pays frontaliers dans le cadre du projet Central African Backbone","","International landing points","Fibre","Other",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,55,"CMR","Cameroon","Fibre","Satellite",2021,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,55,"CMR","Cameroon","Fibre","Satellite",2022,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,57,"COG","Congo (Rep. of the)","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,57,"COG","Congo (Rep. of the)","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,57,"COG","Congo (Rep. of the)","Satellite","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,57,"COG","Congo (Rep. of the)","Satellite","Submarine cable",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,57,"COG","Congo (Rep. of the)","Satellite","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,57,"COG","Congo (Rep. of the)","Submarine cable","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,57,"COG","Congo (Rep. of the)","Satellite","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,57,"COG","Congo (Rep. of the)",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,59,"CPV","Cabo Verde",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,59,"CPV","Cabo Verde",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,59,"CPV","Cabo Verde",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,59,"CPV","Cabo Verde",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,59,"CPV","Cabo Verde",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,59,"CPV","Cabo Verde",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,59,"CPV","Cabo Verde",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,59,"CPV","Cabo Verde",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,61,"CIV","Côte d'Ivoire","Submarine cable","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,61,"CIV","Côte d'Ivoire","Satellite","Submarine cable",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,61,"CIV","Côte d'Ivoire","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,61,"CIV","Côte d'Ivoire","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,61,"CIV","Côte d'Ivoire",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,61,"CIV","Côte d'Ivoire",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,61,"CIV","Côte d'Ivoire",,,2022,"3","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,62,"CRI","Costa Rica","Fibre","Submarine cable",2015,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,62,"CRI","Costa Rica","Fibre","Satellite",2016,"En caso de fibra óptica existe conectividad por ambas fronteras.","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,62,"CRI","Costa Rica","Satellite","Submarine cable",2017,"En caso de fibra óptica existe conectividad por ambas fronteras.","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,62,"CRI","Costa Rica","Fibre","Satellite",2018,"En caso de fibra óptica existe conectividad por ambas fronteras.","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,62,"CRI","Costa Rica","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,62,"CRI","Costa Rica","Fibre","Submarine cable",2020,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,62,"CRI","Costa Rica","Fibre","Submarine cable",2021,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,62,"CRI","Costa Rica","Fibre","Satellite",2022,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,62,"CRI","Costa Rica","Fibre","Submarine cable",2023,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,62,"CRI","Costa Rica","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,63,"CUB","Cuba","Submarine cable","Satellite",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,63,"CUB","Cuba","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,63,"CUB","Cuba","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,63,"CUB","Cuba","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,63,"CUB","Cuba","Submarine cable","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,63,"CUB","Cuba","Satellite","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,63,"CUB","Cuba","Submarine cable","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,63,"CUB","Cuba","Submarine cable","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,66,"CYP","Cyprus","Satellite","Submarine cable",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,66,"CYP","Cyprus","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,66,"CYP","Cyprus","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,66,"CYP","Cyprus","Satellite","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,66,"CYP","Cyprus","Submarine cable","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,66,"CYP","Cyprus","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,66,"CYP","Cyprus","Satellite","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,66,"CYP","Cyprus","Satellite","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,66,"CYP","Cyprus","Satellite","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,67,"DEU","Germany",,,2023,"According to submarinecablemap.com and other public sources, there are 9 submarine data cables landing in Germany. (Source: https://www.submarinecablemap.com/country/germany, Last updated: May 5, 2023)","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,69,"DJI","Djibouti",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,70,"DMA","Dominica",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,72,"DOM","Dominican Rep.",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,72,"DOM","Dominican Rep.",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,72,"DOM","Dominican Rep.",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,72,"DOM","Dominican Rep.",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,72,"DOM","Dominican Rep.",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,72,"DOM","Dominican Rep.",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,72,"DOM","Dominican Rep.","Satellite","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,72,"DOM","Dominican Rep.","Fibre","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,73,"ESP","Spain",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,74,"EGY","Egypt","Submarine cable","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,74,"EGY","Egypt","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,74,"EGY","Egypt",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,74,"EGY","Egypt","Satellite","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,75,"ECU","Ecuador","Satellite","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,76,"EST","Estonia","Fibre","Submarine cable",2016,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,76,"EST","Estonia","Satellite","Submarine cable",2017,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,77,"ETH","Ethiopia","Fibre","Satellite",2016,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,78,"FRA","France","Fibre","Submarine cable",2016,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,78,"FRA","France","Satellite","Submarine cable",2017,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,78,"FRA","France","Satellite","Submarine cable",2018,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,78,"FRA","France","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,78,"FRA","France","Fibre","Submarine cable",2020,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,78,"FRA","France","Satellite","Submarine cable",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,78,"FRA","France","Submarine cable","Satellite",2022,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,78,"FRA","France","Fibre","Satellite",2023,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,78,"FRA","France","Fibre","Submarine cable",2024,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,79,"FJI","Fiji","Satellite","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,79,"FJI","Fiji","Submarine cable","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,83,"FSM","Micronesia",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,85,"GAB","Gabon","Submarine cable","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,85,"GAB","Gabon","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,85,"GAB","Gabon","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,85,"GAB","Gabon","Fibre","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,85,"GAB","Gabon",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,85,"GAB","Gabon",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,90,"GHA","Ghana","Submarine cable","Satellite",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,90,"GHA","Ghana","Satellite","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,90,"GHA","Ghana","Satellite","Submarine cable",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,90,"GHA","Ghana","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,90,"GHA","Ghana","Satellite","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,90,"GHA","Ghana","Submarine cable","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,90,"GHA","Ghana","Submarine cable","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,92,"GMB","Gambia",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,92,"GMB","Gambia","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,92,"GMB","Gambia","Submarine cable","Satellite",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,92,"GMB","Gambia",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,92,"GMB","Gambia",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,92,"GMB","Gambia",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,92,"GMB","Gambia",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,92,"GMB","Gambia",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,93,"GNB","Guinea-Bissau","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,93,"GNB","Guinea-Bissau","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,93,"GNB","Guinea-Bissau","Submarine cable","Satellite",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,93,"GNB","Guinea-Bissau","Fibre","Submarine cable",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,93,"GNB","Guinea-Bissau","Satellite","Submarine cable",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,93,"GNB","Guinea-Bissau","Submarine cable","Fibre",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,94,"GNQ","Equatorial Guinea","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,94,"GNQ","Equatorial Guinea","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,94,"GNQ","Equatorial Guinea","Fibre","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,94,"GNQ","Equatorial Guinea","Fibre","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,94,"GNQ","Equatorial Guinea",,,2023,"GE tiene dos estaciones de amarre, una en Malabo para la conexión de la isla de Bioko con el continente y otra Internacional (estación de amarre del cable ACE).","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,96,"GRD","Grenada",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,96,"GRD","Grenada",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,96,"GRD","Grenada",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,98,"GTM","Guatemala",,,2018,"the current regulation doesnt allow the SIT to require this kind of data from the telecom Operators","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,98,"GTM","Guatemala",,,2019,"the current regulation doesnt allow the SIT to require this kind of data from the telecom Operators","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,98,"GTM","Guatemala",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,98,"GTM","Guatemala",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,98,"GTM","Guatemala",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,98,"GTM","Guatemala",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,98,"GTM","Guatemala",,,2024,"https://www.submarinecablemap.com/","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,100,"GIN","Guinea",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,100,"GIN","Guinea",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,100,"GIN","Guinea","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,100,"GIN","Guinea","Fibre","Satellite",2021,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,100,"GIN","Guinea","Fibre","Submarine cable",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,100,"GIN","Guinea","Submarine cable","Satellite",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,100,"GIN","Guinea","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,102,"GUY","Guyana",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,102,"GUY","Guyana","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,102,"GUY","Guyana","Satellite","Submarine cable",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,102,"GUY","Guyana","Satellite","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,103,"HKG","Hong Kong, China","Submarine cable","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,103,"HKG","Hong Kong, China","Submarine cable","Satellite",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,103,"HKG","Hong Kong, China","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,103,"HKG","Hong Kong, China","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,103,"HKG","Hong Kong, China","Satellite","Submarine cable",2019,"We do not have the number of international 'satellite landing stations'.  Number of satellites for the provision of external telecommunications service registered in Hong Kong is provided instead.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,103,"HKG","Hong Kong, China","Submarine cable","Satellite",2020,"We do not have the number of international 'satellite landing stations'. Number of satellites for the provision of external telecommunications service registered in Hong Kong is provided instead.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,103,"HKG","Hong Kong, China","Submarine cable","Satellite",2021,"We do not have the number of international 'satellite landing stations'. Number of satellites for the provision of external telecommunications service registered in Hong Kong is provided instead.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,103,"HKG","Hong Kong, China","Submarine cable","Satellite",2022,"We do not have the number of international 'satellite landing stations'. Number of satellites for the provision of external telecommunications service registered in Hong Kong is provided instead.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,103,"HKG","Hong Kong, China","Satellite","Submarine cable",2023,"We do not have the number of international ‘satellite landing stations’.  Number of satellites for the provision of external telecommunications service registered in Hong Kong is provided instead.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,103,"HKG","Hong Kong, China","Satellite","Submarine cable",2024,"We do not have the number of international ‘satellite landing stations’. Number of satellites for the provision of external telecommunications service registered in Hong Kong is provided instead.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,104,"HND","Honduras","Fibre","Submarine cable",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,104,"HND","Honduras","Fibre","Satellite",2016,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,104,"HND","Honduras","Satellite","Submarine cable",2017,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,104,"HND","Honduras","Other","Fibre",2019,"","","International landing points","Satellite","Submarine cable",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,104,"HND","Honduras","Submarine cable","Satellite",2020,"","","International landing points","Fibre","Other",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,104,"HND","Honduras","Submarine cable","Satellite",2021,"","","International landing points","Fibre","Other",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,104,"HND","Honduras","Satellite","Submarine cable",2022,"","","International landing points","Fibre","Other",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,104,"HND","Honduras","Satellite","Submarine cable",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,104,"HND","Honduras","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,108,"HTI","Haiti","Fibre","Satellite",2016,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,108,"HTI","Haiti","Fibre","Satellite",2017,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,108,"HTI","Haiti","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,108,"HTI","Haiti","Submarine cable","Satellite",2022,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,113,"IND","India",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,113,"IND","India",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,113,"IND","India",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,113,"IND","India","Submarine cable","Fibre",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,113,"IND","India","Submarine cable","Fibre",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,113,"IND","India","Fibre","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,114,"IDN","Indonesia","Fibre","Other",2024,"","","International landing points","Submarine cable","Satellite",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,115,"IRL","Ireland",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,115,"IRL","Ireland",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,115,"IRL","Ireland",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,116,"IRN","Iran (Islamic Republic of)","Satellite","Submarine cable",2019,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,116,"IRN","Iran (Islamic Republic of)","Submarine cable","Satellite",2020,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,116,"IRN","Iran (Islamic Republic of)","Submarine cable","Satellite",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,116,"IRN","Iran (Islamic Republic of)","Fibre","Submarine cable",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,116,"IRN","Iran (Islamic Republic of)","Satellite","Submarine cable",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,116,"IRN","Iran (Islamic Republic of)","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,117,"IRQ","Iraq",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,117,"IRQ","Iraq",,,2020,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,117,"IRQ","Iraq",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,117,"IRQ","Iraq",,,2022,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,117,"IRQ","Iraq",,,2023,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,117,"IRQ","Iraq",,,2024,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,118,"ISL","Iceland",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,118,"ISL","Iceland",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,118,"ISL","Iceland",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,118,"ISL","Iceland",,,2018,"The third cable, not included in last years,response is Greenland Connect and has been operational for a few years, it's purpose is to connect Greenland to the US and Iceland. The Iceland-Greenland link is not used for general connectivity for Iceland, but may be used for fault protection.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,118,"ISL","Iceland",,,2019,"The third cable has been operational for a few years, it's purpose is to connect Greenland to the US and Iceland. The Iceland-Greenland link is not used for general connectivity for Iceland, but may be used for fault protection.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,118,"ISL","Iceland",,,2020,"The third cable has been operational for a few years, it's purpose is to connect Greenland to the US and Iceland. The Iceland-Greenland link is not used for general connectivity for Iceland, but may be used for fault protection.A fourth cable to Ireland is in planning phase. Ocean floor study has begun.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,118,"ISL","Iceland",,,2021,"The third cable has been operational for a few years, it's purpose is to connect Greenland to the US and Iceland. The Iceland-Greenland link is not used for general connectivity for Iceland, but may be used for fault protection. A fourth cable to Ireland is in planning phase.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,118,"ISL","Iceland",,,2022,"The third cable has been operational for a few years, it's purpose is to connect Greenland to the US and Iceland. The Iceland-Greenland link is not used for general connectivity for Iceland, but may be used for fault protection through the US route. A fourth cable to Ireland is in building phase and set to commence operation early 2023.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,118,"ISL","Iceland",,,2023,"The third cable has been operational for a few years, it's purpose is to connect Greenland to the US and Iceland. The Iceland-Greenland link is not used for general connectivity for Iceland, but may be used for fault protection through the US route. A fourth cable to Ireland commenced operation early 2023.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,118,"ISL","Iceland",,,2024,"Farice, Danice, GreenlandConnect, IRIS. The third cable has been operational for a few years, it's purpose is to connect Greenland to the US and Iceland. The Iceland-Greenland link is not used for general connectivity for Iceland, but may be used for fault protection through the US route. A fourth cable to Ireland commenced operation early 2023.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,119,"ISR","Israel","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,119,"ISR","Israel","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,119,"ISR","Israel","Submarine cable","Other",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,119,"ISR","Israel","Submarine cable","Other",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,119,"ISR","Israel","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,119,"ISR","Israel","Submarine cable","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,119,"ISR","Israel","Satellite","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,120,"JPN","Japan",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,120,"JPN","Japan",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,120,"JPN","Japan",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,120,"JPN","Japan",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,120,"JPN","Japan",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,120,"JPN","Japan",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,120,"JPN","Japan",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,120,"JPN","Japan",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,120,"JPN","Japan",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,120,"JPN","Japan",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,122,"JAM","Jamaica",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,124,"JOR","Jordan","Submarine cable","Fibre",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,124,"JOR","Jordan","Fibre","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,124,"JOR","Jordan","Submarine cable","Satellite",2022,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,124,"JOR","Jordan","Fibre","Satellite",2023,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,124,"JOR","Jordan","Fibre","Submarine cable",2024,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,125,"KEN","Kenya","Submarine cable","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,125,"KEN","Kenya","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,125,"KEN","Kenya","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,127,"KIR","Kiribati",,,2021,"","","International landing points",,,"Satellite"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,128,"KOR","Korea (Rep. of)","Fibre","Submarine cable",2019,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,128,"KOR","Korea (Rep. of)","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,130,"KWT","Kuwait","Fibre","Satellite",2017,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,130,"KWT","Kuwait","Satellite","Submarine cable",2018,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,130,"KWT","Kuwait","Fibre","Submarine cable",2019,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,130,"KWT","Kuwait","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,130,"KWT","Kuwait","Satellite","Submarine cable",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,130,"KWT","Kuwait","Fibre","Satellite",2022,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,130,"KWT","Kuwait","Submarine cable","Satellite",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,130,"KWT","Kuwait","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,131,"LAO","Lao P.D.R.",,,2016,"","","International landing points",,,"Satellite"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,131,"LAO","Lao P.D.R.",,,2018,"","","International landing points",,,"Satellite"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,131,"LAO","Lao P.D.R.",,,2020,"","","International landing points",,,"Satellite"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,131,"LAO","Lao P.D.R.","Fibre","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,131,"LAO","Lao P.D.R.","Fibre","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,131,"LAO","Lao P.D.R.","Satellite","Fibre",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,133,"LBR","Liberia","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,133,"LBR","Liberia","Submarine cable","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,133,"LBR","Liberia",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,134,"LBY","Libya","Submarine cable","Fibre",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,135,"LCA","Saint Lucia",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,135,"LCA","Saint Lucia",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,135,"LCA","Saint Lucia","Fibre","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,135,"LCA","Saint Lucia","Fibre","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,135,"LCA","Saint Lucia",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,135,"LCA","Saint Lucia",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,135,"LCA","Saint Lucia",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,135,"LCA","Saint Lucia",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,135,"LCA","Saint Lucia",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,136,"LIE","Liechtenstein",,,2015,"Fibre network of Liechtensteinische Kraftwerke with glas fibre cables to Switzerland and to Austria.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,136,"LIE","Liechtenstein",,,2016,"Fibre network of Liechtensteinische Kraftwerke with glas ifbre cables to Switzerland and to Austria.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,136,"LIE","Liechtenstein",,,2017,"Fibre Network of Liechtensteinische Kraftwerke with glass fibre cables to Switzerland and Austria.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,136,"LIE","Liechtenstein",,,2018,"Fibre Network of Liechtensteinische Kraftwerke with glass fibre cables to Switzerland and Austria.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,136,"LIE","Liechtenstein",,,2019,"Fibre Network of Liechtensteinische Kraftwerke with several glass fibre cables to Switzerland and Austria.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,136,"LIE","Liechtenstein",,,2020,"Fibre Network of Liechtensteinische Kraftwerke with several glass fibre cables to Switzerland and Austria.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,136,"LIE","Liechtenstein",,,2021,"Fibre Network of Liechtensteinische Kraftwerke with several glass fibre cables to Switzerland and Austria.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,136,"LIE","Liechtenstein",,,2022,"Fibre Network of Liechtensteinische Kraftwerke with several glass fibre cables to Switzerland and Austria.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,136,"LIE","Liechtenstein",,,2023,"Fibre Network of Liechtensteinische Kraftwerke and other operators, several glass fibre cables to Switzerland and Austria.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,136,"LIE","Liechtenstein",,,2024,"Fibre Network of Liechtensteinische Kraftwerke and other operators, several glass fibre cables to Switzerland and Austria.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,137,"LSO","Lesotho","Other","Fibre",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,137,"LSO","Lesotho","Other","Fibre",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,137,"LSO","Lesotho","Other","Fibre",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,137,"LSO","Lesotho","Other","Fibre",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,137,"LSO","Lesotho","Other","Fibre",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,137,"LSO","Lesotho","Other","Fibre",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,137,"LSO","Lesotho","Submarine cable","Fibre",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,138,"LTU","Lithuania","Fibre","Satellite",2016,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,138,"LTU","Lithuania","Fibre","Satellite",2017,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,138,"LTU","Lithuania","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,138,"LTU","Lithuania","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,138,"LTU","Lithuania","Submarine cable","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,141,"MAC","Macao, China","Other","Fibre",2015,"","","International landing points","Satellite","Submarine cable",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,141,"MAC","Macao, China","Fibre","Other",2016,"","","International landing points","Submarine cable","Satellite",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,142,"MUS","Mauritius","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,142,"MUS","Mauritius","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,142,"MUS","Mauritius","Satellite","Submarine cable",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,142,"MUS","Mauritius","Satellite","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,142,"MUS","Mauritius","Submarine cable","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,142,"MUS","Mauritius","Submarine cable","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,142,"MUS","Mauritius",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,144,"MDG","Madagascar","Satellite","Submarine cable",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,144,"MDG","Madagascar","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,144,"MDG","Madagascar","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,144,"MDG","Madagascar","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,144,"MDG","Madagascar","Submarine cable","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,144,"MDG","Madagascar","Satellite","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,144,"MDG","Madagascar","Satellite","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,144,"MDG","Madagascar","Satellite","Submarine cable",2023,"le 4e câble sous marin 2 Africa est en cours d'installation actuellement.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,144,"MDG","Madagascar","Submarine cable","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,147,"MEX","Mexico",,,2021,"No se cuenta con información.","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,147,"MEX","Mexico",,,2022,"No se cuenta con información","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,147,"MEX","Mexico",,,2023,"No se cuenta con información","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,147,"MEX","Mexico",,,2024,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,148,"MYS","Malaysia",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,148,"MYS","Malaysia",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,148,"MYS","Malaysia",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,148,"MYS","Malaysia",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,148,"MYS","Malaysia",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,148,"MYS","Malaysia",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,148,"MYS","Malaysia",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,148,"MYS","Malaysia",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,149,"MDV","Maldives",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,149,"MDV","Maldives",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,150,"MLI","Mali","Fibre","Satellite",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,150,"MLI","Mali","Fibre","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,150,"MLI","Mali","Fibre","Satellite",2022,"Le Mali ne dispose pas directement de station d'atterrissage.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,150,"MLI","Mali",,,2023,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,151,"MLT","Malta",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,151,"MLT","Malta",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,151,"MLT","Malta",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,151,"MLT","Malta",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,151,"MLT","Malta",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,151,"MLT","Malta",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,151,"MLT","Malta",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,151,"MLT","Malta",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,151,"MLT","Malta",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,152,"MNG","Mongolia","Fibre","Satellite",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,152,"MNG","Mongolia","Fibre","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,152,"MNG","Mongolia","Satellite","Fibre",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,152,"MNG","Mongolia","Fibre","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,152,"MNG","Mongolia","Fibre","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,152,"MNG","Mongolia","Fibre","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,153,"MOZ","Mozambique",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,153,"MOZ","Mozambique","Fibre","Satellite",2016,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,153,"MOZ","Mozambique","Fibre","Satellite",2017,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,153,"MOZ","Mozambique","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,153,"MOZ","Mozambique","Other","Fibre",2020,"","","International landing points","Submarine cable","Satellite",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,153,"MOZ","Mozambique","Fibre","Other",2021,"","","International landing points","Submarine cable","Satellite",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,155,"MAR","Morocco","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,160,"MRT","Mauritania","Satellite","Submarine cable",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,160,"MRT","Mauritania","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,160,"MRT","Mauritania","Submarine cable","Satellite",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,160,"MRT","Mauritania","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,160,"MRT","Mauritania","Fibre","Submarine cable",2020,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,160,"MRT","Mauritania","Satellite","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,161,"MWI","Malawi",,,2016,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,161,"MWI","Malawi",,,2017,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,161,"MWI","Malawi",,,2018,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,161,"MWI","Malawi",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,161,"MWI","Malawi",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,163,"NIC","Nicaragua",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,163,"NIC","Nicaragua","Fibre","Satellite",2021,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,163,"NIC","Nicaragua","Submarine cable","Satellite",2022,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,163,"NIC","Nicaragua","Submarine cable","Satellite",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,163,"NIC","Nicaragua","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,167,"NGA","Nigeria",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,169,"NAM","Namibia",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,169,"NAM","Namibia","Fibre","Satellite",2016,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,169,"NAM","Namibia","Satellite","Submarine cable",2017,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,169,"NAM","Namibia","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,169,"NAM","Namibia","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,169,"NAM","Namibia","Submarine cable","Satellite",2020,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,169,"NAM","Namibia","Fibre","Satellite",2021,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,169,"NAM","Namibia","Fibre","Submarine cable",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,169,"NAM","Namibia","Submarine cable","Satellite",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,169,"NAM","Namibia","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,170,"NOR","Norway","Fibre","Submarine cable",2015,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,171,"NPL","Nepal (Republic of)","Fibre","Satellite",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,171,"NPL","Nepal (Republic of)","Fibre","Satellite",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,171,"NPL","Nepal (Republic of)","Fibre","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,171,"NPL","Nepal (Republic of)","Satellite","Fibre",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,171,"NPL","Nepal (Republic of)","Fibre","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,173,"NZL","New Zealand","Satellite","Submarine cable",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,173,"NZL","New Zealand","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,173,"NZL","New Zealand","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,173,"NZL","New Zealand","Satellite","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,173,"NZL","New Zealand","Submarine cable","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,173,"NZL","New Zealand","Satellite","Submarine cable",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,173,"NZL","New Zealand","Submarine cable","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,173,"NZL","New Zealand","Satellite","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,173,"NZL","New Zealand","Submarine cable","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,176,"OMN","Oman","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,176,"OMN","Oman","Satellite","Submarine cable",2019,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,176,"OMN","Oman","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,176,"OMN","Oman","Fibre","Submarine cable",2021,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,176,"OMN","Oman","Fibre","Submarine cable",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,176,"OMN","Oman","Submarine cable","Satellite",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,176,"OMN","Oman","Fibre","Submarine cable",2024,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,182,"PAK","Pakistan","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,182,"PAK","Pakistan","Satellite","Submarine cable",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,182,"PAK","Pakistan","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,182,"PAK","Pakistan","Submarine cable","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,188,"PNG","Papua New Guinea",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,189,"PAN","Panama",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,189,"PAN","Panama",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,189,"PAN","Panama",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,189,"PAN","Panama",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,189,"PAN","Panama",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,189,"PAN","Panama",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,189,"PAN","Panama",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,189,"PAN","Panama","Submarine cable","Satellite",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,190,"POL","Poland","Fibre","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,190,"POL","Poland","Fibre","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,190,"POL","Poland","Fibre","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,191,"PRT","Portugal",,,2016,"Submarine cables - 2 by MEO, 1 by TATA. No available information on the number per type","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,191,"PRT","Portugal",,,2017,"Submarine cables - 2 by MEO, 1 by TATA. No available information on the number per type","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,191,"PRT","Portugal",,,2018,"Submarine cables - 2 by MEO, 1 by TATA. No information available on the number per type","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,191,"PRT","Portugal",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,191,"PRT","Portugal",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,191,"PRT","Portugal",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,191,"PRT","Portugal",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,191,"PRT","Portugal",,,2023,"4 international landing stations - 2 owned by MEO, 1 owned by TATA and 1 owned by Ellalink. There are more landing stations but for internal connectivity only.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,191,"PRT","Portugal",,,2024,"4 international landing stations - 2 owned by MEO, 1 owned by TATA and 1 owned by Ellalink. There are more landing stations but for internal connectivity only.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,192,"PRY","Paraguay",,,2016,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,192,"PRY","Paraguay",,,2017,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,192,"PRY","Paraguay",,,2018,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,192,"PRY","Paraguay",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,192,"PRY","Paraguay",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,192,"PRY","Paraguay",,,2023,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,193,"PER","Peru","Satellite","Submarine cable",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,193,"PER","Peru","Satellite","Submarine cable",2016,"Cable Submarino: Lurín (Lima) y Mancora (Piura)Satélite: Punto Principal: Lurín.Fibra Terrestre: Frontera con Ecuador y Chile.","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,193,"PER","Peru","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,193,"PER","Peru","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,193,"PER","Peru","Submarine cable","Satellite",2019,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,193,"PER","Peru","Satellite","Submarine cable",2020,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,193,"PER","Peru","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,193,"PER","Peru","Satellite","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,193,"PER","Peru","Submarine cable","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,193,"PER","Peru","Submarine cable","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,196,"QAT","Qatar","Fibre","Satellite",2016,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,196,"QAT","Qatar","Satellite","Submarine cable",2017,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,196,"QAT","Qatar","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,196,"QAT","Qatar","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,196,"QAT","Qatar","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,196,"QAT","Qatar","Satellite","Submarine cable",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,196,"QAT","Qatar","Fibre","Submarine cable",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,196,"QAT","Qatar","Submarine cable","Satellite",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,196,"QAT","Qatar","Fibre","Submarine cable",2024,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,201,"RWA","Rwanda","Fibre","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,201,"RWA","Rwanda","Fibre","Satellite",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,201,"RWA","Rwanda","Satellite","Fibre",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,201,"RWA","Rwanda","Fibre","Satellite",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,201,"RWA","Rwanda","Fibre","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,201,"RWA","Rwanda","Fibre","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,201,"RWA","Rwanda","Satellite","Fibre",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,201,"RWA","Rwanda","Fibre","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,201,"RWA","Rwanda","Fibre","Satellite",2024,"Every operator (MNOs and ISPs) has its own international points; however, all of them originate from two locations in Uganda and one location in Tanzania.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,202,"RUS","Russian Federation","Submarine cable","Fibre",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,202,"RUS","Russian Federation","Fibre","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,202,"RUS","Russian Federation","Fibre","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,202,"RUS","Russian Federation","Fibre","Submarine cable",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,202,"RUS","Russian Federation",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,202,"RUS","Russian Federation","Satellite","Fibre",2022,"","","International landing points","Other",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,202,"RUS","Russian Federation","Satellite","Submarine cable",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,203,"SWE","Sweden",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,203,"SWE","Sweden",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,203,"SWE","Sweden",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,203,"SWE","Sweden",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,203,"SWE","Sweden","Fibre","Submarine cable",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,205,"SDN","Sudan",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,205,"SDN","Sudan","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,205,"SDN","Sudan","Fibre","Submarine cable",2019,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,205,"SDN","Sudan","Fibre","Submarine cable",2020,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,205,"SDN","Sudan","Fibre","Submarine cable",2021,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,205,"SDN","Sudan","Satellite","Submarine cable",2022,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,206,"SEN","Senegal","Satellite","Submarine cable",2017,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,206,"SEN","Senegal","Fibre","Submarine cable",2018,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,206,"SEN","Senegal","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,206,"SEN","Senegal","Satellite","Submarine cable",2020,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,206,"SEN","Senegal","Submarine cable","Satellite",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,206,"SEN","Senegal",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,206,"SEN","Senegal",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,207,"SYC","Seychelles","Satellite","Submarine cable",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,207,"SYC","Seychelles","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,207,"SYC","Seychelles","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,207,"SYC","Seychelles","Satellite","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,207,"SYC","Seychelles","Satellite","Submarine cable",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,207,"SYC","Seychelles","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,207,"SYC","Seychelles","Satellite","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,207,"SYC","Seychelles","Submarine cable","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,207,"SYC","Seychelles","Satellite","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,210,"SLV","El Salvador",,,2015,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,210,"SLV","El Salvador",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,210,"SLV","El Salvador",,,2017,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,212,"WSM","Samoa","Fibre","Satellite",2017,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,212,"WSM","Samoa","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,212,"WSM","Samoa","Submarine cable","Satellite",2019,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,212,"WSM","Samoa","Satellite","Submarine cable",2020,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,212,"WSM","Samoa","Fibre","Satellite",2021,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,212,"WSM","Samoa","Fibre","Satellite",2022,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,212,"WSM","Samoa","Submarine cable","Satellite",2023,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,212,"WSM","Samoa","Fibre","Submarine cable",2024,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,214,"SGP","Singapore","Submarine cable","Satellite",2015,"Singapore has more than 3 international landing stations for submarine cable and satellite.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,215,"SOM","Somalia","Satellite","Submarine cable",2018,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,215,"SOM","Somalia","Satellite","Submarine cable",2019,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,215,"SOM","Somalia",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,215,"SOM","Somalia",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,215,"SOM","Somalia",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,217,"SLE","Sierra Leone",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,217,"SLE","Sierra Leone",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,217,"SLE","Sierra Leone",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,218,"STP","Sao Tome and Principe","Submarine cable","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,218,"STP","Sao Tome and Principe","Satellite","Submarine cable",2017,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,218,"STP","Sao Tome and Principe","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,218,"STP","Sao Tome and Principe","Satellite","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,219,"CHE","Switzerland",,,2015,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,219,"CHE","Switzerland","Satellite","Fibre",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,219,"CHE","Switzerland","Satellite","Fibre",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,219,"CHE","Switzerland","Fibre","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,220,"SUR","Suriname",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,220,"SUR","Suriname",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,220,"SUR","Suriname",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,220,"SUR","Suriname",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,220,"SUR","Suriname",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,220,"SUR","Suriname",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,220,"SUR","Suriname",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,220,"SUR","Suriname",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,220,"SUR","Suriname","Fibre","Submarine cable",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,220,"SUR","Suriname","Fibre","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,221,"SVN","Slovenia",,,2016,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,221,"SVN","Slovenia",,,2017,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,221,"SVN","Slovenia",,,2018,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,221,"SVN","Slovenia",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,221,"SVN","Slovenia",,,2020,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,221,"SVN","Slovenia",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,221,"SVN","Slovenia",,,2022,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,221,"SVN","Slovenia",,,2023,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,221,"SVN","Slovenia",,,2024,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,223,"SWZ","Eswatini",,,2017,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,223,"SWZ","Eswatini",,,2018,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,223,"SWZ","Eswatini",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,223,"SWZ","Eswatini",,,2020,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,223,"SWZ","Eswatini",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,223,"SWZ","Eswatini","Submarine cable","Fibre",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,223,"SWZ","Eswatini","Submarine cable","Fibre",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,223,"SWZ","Eswatini","Fibre","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,224,"SYR","Syrian Arab Republic","Satellite","Fibre",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,224,"SYR","Syrian Arab Republic","Satellite","Fibre",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,224,"SYR","Syrian Arab Republic","Fibre","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,224,"SYR","Syrian Arab Republic","Fibre","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,224,"SYR","Syrian Arab Republic",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,224,"SYR","Syrian Arab Republic",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,224,"SYR","Syrian Arab Republic",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,227,"CZE","Czech Republic",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,227,"CZE","Czech Republic","Fibre","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,227,"CZE","Czech Republic","Fibre","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,227,"CZE","Czech Republic",,,2022,"International connectivity is based on fibre network connections with the neighbouring countries.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,227,"CZE","Czech Republic",,,2023,"International connectivity is based on fibre network connections with the neighbouring countries.","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,227,"CZE","Czech Republic",,,2024,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,228,"TGO","Togo","Fibre","Submarine cable",2015,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,228,"TGO","Togo",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,228,"TGO","Togo",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,228,"TGO","Togo",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,228,"TGO","Togo",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,228,"TGO","Togo",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,228,"TGO","Togo",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,228,"TGO","Togo","Fibre","Satellite",2022,"Câbles sous-marin: WACS, Moroc Telecom West Africa Câble, Equiano","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,228,"TGO","Togo",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,229,"THA","Thailand","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,229,"THA","Thailand","Satellite","Submarine cable",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,232,"TON","Tonga","Satellite","Submarine cable",2018,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,232,"TON","Tonga","Fibre","Satellite",2019,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,232,"TON","Tonga","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,232,"TON","Tonga","Satellite","Submarine cable",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,234,"TTO","Trinidad and Tobago","Fibre","Submarine cable",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,234,"TTO","Trinidad and Tobago",,,2016,"There are 3 international landing stations and 1 international landing point.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,234,"TTO","Trinidad and Tobago",,,2017,"There are 3 international landing stations and 1 international landing point.","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,234,"TTO","Trinidad and Tobago",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,234,"TTO","Trinidad and Tobago",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,234,"TTO","Trinidad and Tobago",,,2021,"2020 also had 3 submarine cables","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,234,"TTO","Trinidad and Tobago",,,2022,"2020 also had 3 submarine cables","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,234,"TTO","Trinidad and Tobago",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,234,"TTO","Trinidad and Tobago",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,235,"TUN","Tunisia","Fibre","Submarine cable",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,235,"TUN","Tunisia",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,235,"TUN","Tunisia",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,235,"TUN","Tunisia",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,235,"TUN","Tunisia",,,2019,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,235,"TUN","Tunisia",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,235,"TUN","Tunisia",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,235,"TUN","Tunisia",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,235,"TUN","Tunisia",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,235,"TUN","Tunisia",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,237,"TUV","Tuvalu",,,2015,"","","International landing points",,,"Satellite"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,238,"TZA","Tanzania","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,238,"TZA","Tanzania","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,238,"TZA","Tanzania","Submarine cable","Satellite",2019,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,238,"TZA","Tanzania","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,238,"TZA","Tanzania",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,238,"TZA","Tanzania",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,238,"TZA","Tanzania",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,239,"ARE","United Arab Emirates","Fibre","Submarine cable",2015,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,239,"ARE","United Arab Emirates","Satellite","Submarine cable",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,239,"ARE","United Arab Emirates","Fibre","Satellite",2017,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,239,"ARE","United Arab Emirates","Fibre","Submarine cable",2018,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,239,"ARE","United Arab Emirates","Submarine cable","Satellite",2019,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,239,"ARE","United Arab Emirates","Satellite","Submarine cable",2020,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,239,"ARE","United Arab Emirates","Satellite","Submarine cable",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,239,"ARE","United Arab Emirates","Fibre","Submarine cable",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,239,"ARE","United Arab Emirates","Fibre","Submarine cable",2023,"4 International landing stations","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,239,"ARE","United Arab Emirates","Fibre","Submarine cable",2024,"4 International landing stations","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,240,"UGA","Uganda",,,2018,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,240,"UGA","Uganda",,,2019,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,240,"UGA","Uganda",,,2020,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,240,"UGA","Uganda",,,2021,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,242,"URY","Uruguay","Other","Fibre",2021,"","","International landing points","Submarine cable","Satellite",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,242,"URY","Uruguay","Submarine cable","Satellite",2022,"","","International landing points","Other","Fibre",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,242,"URY","Uruguay","Fibre","Other",2023,"","","International landing points","Submarine cable","Satellite",
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,244,"USA","United States","Satellite","Submarine cable",2015,"87 cable landing points in the 50 U.S. states; total including U.S. territories is 101.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,244,"USA","United States","Satellite","Submarine cable",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,244,"USA","United States","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,244,"USA","United States","Satellite","Submarine cable",2018,"There were 16571 registered/licensed satellite earth stations as of 10/1/18.  Receive-only earth stations need not be registered or licensed if they are willing to accept interference,","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,244,"USA","United States","Submarine cable","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,244,"USA","United States","Submarine cable","Satellite",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,244,"USA","United States","Submarine cable","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,244,"USA","United States","Satellite","Submarine cable",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,245,"UZB","Uzbekistan","Fibre","Satellite",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,245,"UZB","Uzbekistan","Satellite","Fibre",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,245,"UZB","Uzbekistan",,,2022,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,245,"UZB","Uzbekistan",,,2023,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,245,"UZB","Uzbekistan",,,2024,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,246,"VCT","Saint Vincent and the Grenadines",,,2015,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,246,"VCT","Saint Vincent and the Grenadines",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,246,"VCT","Saint Vincent and the Grenadines",,,2017,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,246,"VCT","Saint Vincent and the Grenadines",,,2018,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,246,"VCT","Saint Vincent and the Grenadines",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,246,"VCT","Saint Vincent and the Grenadines",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,246,"VCT","Saint Vincent and the Grenadines",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,246,"VCT","Saint Vincent and the Grenadines",,,2024,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,247,"VEN","Venezuela","Fibre","Submarine cable",2015,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,247,"VEN","Venezuela","Fibre","Satellite",2017,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,247,"VEN","Venezuela","Fibre","Submarine cable",2018,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,247,"VEN","Venezuela","Satellite","Submarine cable",2019,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,250,"VNM","Viet Nam","Satellite","Submarine cable",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,250,"VNM","Viet Nam","Satellite","Submarine cable",2016,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,250,"VNM","Viet Nam","Satellite","Submarine cable",2017,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,250,"VNM","Viet Nam","Satellite","Submarine cable",2018,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,250,"VNM","Viet Nam","Fibre","Submarine cable",2019,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,250,"VNM","Viet Nam","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,250,"VNM","Viet Nam","Satellite","Submarine cable",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,251,"VUT","Vanuatu","Satellite","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,251,"VUT","Vanuatu","Satellite","Submarine cable",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,251,"VUT","Vanuatu","Submarine cable","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,256,"SRB","Serbia",,,2017,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,256,"SRB","Serbia",,,2018,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,256,"SRB","Serbia",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,256,"SRB","Serbia",,,2020,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,257,"COD","Dem. Rep. of the Congo","Fibre","Satellite",2015,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,257,"COD","Dem. Rep. of the Congo",,,2016,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,257,"COD","Dem. Rep. of the Congo","Fibre","Submarine cable",2017,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,257,"COD","Dem. Rep. of the Congo","Fibre","Satellite",2018,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,257,"COD","Dem. Rep. of the Congo","Satellite","Submarine cable",2019,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,257,"COD","Dem. Rep. of the Congo","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,257,"COD","Dem. Rep. of the Congo","Fibre","Submarine cable",2021,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,257,"COD","Dem. Rep. of the Congo","Fibre","Satellite",2022,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,257,"COD","Dem. Rep. of the Congo","Fibre","Submarine cable",2023,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,257,"COD","Dem. Rep. of the Congo","Fibre","Satellite",2024,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,259,"ZMB","Zambia","Fibre","Satellite",2020,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,259,"ZMB","Zambia","Fibre","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,259,"ZMB","Zambia","Satellite","Fibre",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,259,"ZMB","Zambia","Fibre","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,259,"ZMB","Zambia","Fibre","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,260,"ZWE","Zimbabwe","Fibre","Satellite",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,260,"ZWE","Zimbabwe",,,2018,"Zimbabwe is a landlocked country, so it is connected to the submarine cables via coastal countries like South Africa and Mozambique.","","International landing points",,,"Satellite"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,260,"ZWE","Zimbabwe",,,2019,"Zimbabwe is a landlocked country, so it is connected to the submarine cables via coastal countries like South Africa and Mozambique.","","International landing points",,,"Satellite"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,260,"ZWE","Zimbabwe","Fibre","Satellite",2020,"Zimbabwe is a landlocked country, so it is connected to the submarine cables via coastal countries like South Africa and Mozambique. Connection to these transit countries is through fibre.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,260,"ZWE","Zimbabwe","Fibre","Satellite",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,260,"ZWE","Zimbabwe","Satellite","Fibre",2022,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,260,"ZWE","Zimbabwe","Fibre","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,260,"ZWE","Zimbabwe","Fibre","Satellite",2024,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,274,"MDA","Moldova",,,2016,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,274,"MDA","Moldova",,,2017,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,274,"MDA","Moldova",,,2018,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,274,"MDA","Moldova",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,274,"MDA","Moldova",,,2020,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,274,"MDA","Moldova",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,274,"MDA","Moldova",,,2022,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,274,"MDA","Moldova",,,2023,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,274,"MDA","Moldova",,,2024,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,275,"BIH","Bosnia and Herzegovina",,,2016,"data not available","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,275,"BIH","Bosnia and Herzegovina",,,2017,"data not available","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,275,"BIH","Bosnia and Herzegovina",,,2019,"data not available","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,275,"BIH","Bosnia and Herzegovina",,,2020,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,275,"BIH","Bosnia and Herzegovina",,,2021,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,275,"BIH","Bosnia and Herzegovina",,,2022,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,276,"GEO","Georgia","Fibre","Submarine cable",2015,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,276,"GEO","Georgia","Fibre","Submarine cable",2016,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,276,"GEO","Georgia","Fibre","Submarine cable",2017,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,276,"GEO","Georgia","Submarine cable","Fibre",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,276,"GEO","Georgia",,,2020,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,276,"GEO","Georgia",,,2021,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,276,"GEO","Georgia",,,2022,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,277,"KAZ","Kazakhstan",,,2023,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,280,"KGZ","Kyrgyzstan","Satellite","Fibre",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,280,"KGZ","Kyrgyzstan","Fibre","Satellite",2023,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,281,"SVK","Slovakia",,,2018,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,281,"SVK","Slovakia",,,2019,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,281,"SVK","Slovakia",,,2020,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,281,"SVK","Slovakia",,,2021,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,281,"SVK","Slovakia",,,2022,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,281,"SVK","Slovakia",,,2023,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,281,"SVK","Slovakia",,,2024,"","","International landing points",,,"Fibre"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,285,"ERI","Eritrea",,,2021,"","","International landing points",,,"Satellite"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,302,"TLS","Timor-Leste",,,2020,"","","International landing points",,,"Satellite"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,316,"MNE","Montenegro","Other","Fibre",2017,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,316,"MNE","Montenegro","Fibre","Other",2018,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,316,"MNE","Montenegro","Fibre","Other",2019,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,316,"MNE","Montenegro","Satellite","Other",2020,"International landing stations - Other: 3 - Microwave links and 3 - MSS CGC stations. Total: 6.","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,316,"MNE","Montenegro","Satellite","Other",2021,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,316,"MNE","Montenegro","Other","Fibre",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,321,"SSD","South Sudan",,,2016,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,321,"SSD","South Sudan",,,2017,"","","International landing points",,,"Other"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,321,"SSD","South Sudan","Other","Satellite",2018,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,321,"SSD","South Sudan","Fibre","Satellite",2019,"","","International landing points",,,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,321,"SSD","South Sudan","Fibre","Satellite",2020,"","","International landing points","Submarine cable",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,321,"SSD","South Sudan","Submarine cable","Satellite",2021,"","","International landing points","Fibre",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,321,"SSD","South Sudan","Fibre","Submarine cable",2022,"","","International landing points","Satellite",,
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,321,"SSD","South Sudan",,,2023,"","","International landing points",,,"Submarine cable"
+20631,"tpInternetConn_NumberLandingStations","International landing points",,,321,"SSD","South Sudan",,,2024,"","","International landing points",,,"Submarine cable"

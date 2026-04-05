@@ -1,0 +1,39 @@
+#dashboard:
+create button for visualization of previous year's data to predicted years bangladesh's data visualization, place that button beside the characteristics of the graph box. 
+engine logic. so, previous year's status will be visualized. to set the priority after imposing red yellow green function then to prioritize area for development (blinking state) select (top yellow 70:30 lowest red). When the side bar pops up it doesn't go down after popping up once, add a close button of the popped side bar (if not clicked on any district but in free space it will be closed  and if on district obviously shift visualize data of the disrict, that district should blink in 1s delay and prioritized ones will be 0.5s delay blink).
+
+bring my pop up information side bar. where all the district detail is showed 
+
+i have relentless time has spoke to you to update the sidebar. there is written  suppose in Dinajpur         Current         Gap to Target         Target
+                          64.2%                    ✓ Met                  80% 
+here i want the change (Gap to Target  --->(target value % - current value%)   if the result is negative then show (✓ Met  ) otherwise show the subtraction result. 
+
+there is not any html file to download, only the new tab to show from download report button, in html report there should be listed the total summary of analysis (prioritized area, allocated budget, time frame, smart policy, Goal achieve rate, ML model's reliability and so on)
+
+when cursor is moved on the map, a small pop up shows summary of key indicators of each district. make the pop up a bit distance ly placed so that moving cursor on map won't be troublesome.  don't place it too distanced
+
+connectiva comparison report the logic is faulty. remove it
+
+
+#engine logic:
+remove the budget parameter from input. add estimated budget in digital divide matrices.  if any indicator is tuned from Policy Intervention Simulator the general input (target connectivity) feels impact, but the time remains still, it should get moving like target connectivity. i need this inversely relational also. if goal input (Bangladesh)//change heading name, is tuned the top key indicators also should get impacted , interaction (slide movement) of the key indicators must be visible
+
+In engine logic you surely have added  budget "Make section headline Goal Input(Bangladesh),   Target Connectivity % 40% (update it to  20% under the minimum value of current connectivity rate in bangladesh ) 80%(mid value of minimum and highest connectivity rate in bangladesh)  %100% (possible max value can exist in a scale)
+Policy Timeframe (Years)
+1 YR    5 YR    20 YR
+
+remove the upload data button
+
+
+#engineer view:
+Add country based comparison of different indicator parameters in "country wise comparison "(source: ITU DataHub)" section iike the images in /files/img/WhatsApp Shohag at 1.03.36 AM. 
+add autonomous data update and manual data update button. for manual data update it will check itu format or btrc format of data used in training previously, accept if column name == column name, file name == file name and previous trend == previous trend of the new file vs old file. for autonomous data will be parsed automatically from  https://datahub.itu.int/indicators/  then unzip and update the latest year data for the indicators. show the latest data updated time/year.
+
+
+#report generation:
+For scientific report :      Your report generation in  doc file is  very bad,  create a folder named report then keep the file generate in latex format, which i will be able to edit in overleaf or some other latex editor. include graphics (ML generated graphs with description), Mathematical model Derivation to get our equation for our system that we have used. write the detailed workflow of full project with image. lastly for general i need a report type of word file where a sum up will be there at first what is connectiva? what it's motive( why did we built, how is this relatable to assist in policy making, target/budget optimization, how it aligns with our problem solving goal in this ITU Data Hackathon competition and other than this in competition if it can create any impact in real life)? if our system is well defined and well organized (what folder is for which documents and which documents plays which role to execute this from behind), robust and scalable or not,for whom to use it, if any pre requites are needed to use this. how to operate this (full system installation process both in windows and linux). what was the algorithm (why ML used in back end, why this ML model is chosen behind reasons, trial and errors? what were the data sources, what was the data optimization process if any over fitting or under fitting data in ML what was our novelty ---- in short scientific report of ML model we developed) , describe our ML outcome each of the graphs what does it represent then how the GUI (website backend and frontend was developed and how did we from webapp to its now suitable to one executable file (have .sh file to execute in linux) , what is the purpose of which file and file organization, what are the precautious to maintain (like vnev breaks when any folder or file is copied from one destination to another) in frontend of each page purpose of key buttons/sliders, information side bar and it's description) or project flow of this and lastly what are the limitations to overcome if has any (in short full technical report with reasoning), prepare this as scientific report to submit anywhere in official obviously with index. the report must be generated in latex format.
+
+
+
+about connectiva:
+update the info here if anything is here to update
