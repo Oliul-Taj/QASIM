@@ -1,0 +1,636 @@
+,,Equipment Info,,
+Month,Operater,BTS,NodeB,eNodeB
+Jan'2022,GP,17029,16381,17345
+,Robi,14829,11338,14868
+,BL,10620,9393,10129
+,TBL,5660,4876,3514
+,Total ,48138,41988,45856
+Feb'2022,GP,17158,16397,17476
+,Robi,14836,11338,14879
+,BL,10870,9393,10437
+,TBL,5668,4885,3531
+,Total ,48532,42013,46323
+Mar'2022,GP,17308,16413,17650
+,Robi,14847,11339,14891
+,BL,11381,9393,11040
+,TBL,5670,4885,3535
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,49206,42030,47116
+Apr'2022,GP,17512,16450,17894
+,Robi,14863,11338,14909
+,BL,11888,9393,11629
+,TBL,5670,4886,3536
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,49933,42067,47968
+May'2022,GP,17675,16470,18062
+,Robi,14879,11338,14925
+,BL,12264,9389,12109
+,TBL,5664,4880,3535
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,50482,42077,48631
+Jun'2022,GP,17949,16502,18387
+,Robi,14914,11342,14961
+,BL,12766,9390,12652
+,TBL,5664,4882,3537
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,51293,42116,49537
+Jul'2022,GP,18121,16525,18556
+,Robi,14979,11338,15030
+,BL,13195,9390,13095
+,TBL,5661,4872,3534
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,51956,42125,50215
+Aug'2022,GP,18400,16552,18865
+,Robi,14999,11348,15053
+,BL,13391,9386,13309
+,TBL,5661,4873,3534
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,52451,42159,50761
+Sep'2022,GP,18542,16620,19095
+,Robi,15154,11347,15219
+,BL,13575,9389,13519
+,TBL,5645,4859,3528
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,52916,42215,51361
+Oct'2022,GP,18687,16882,19338
+,Robi,15279,11346,15350
+,BL,13736,9386,13685
+,TBL,5647,4860,3528
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,53349,42474,51901
+Nov'2022,GP,18799,16840,19462
+,Robi,15405,10346,15482
+,BL,13929,9386,13895
+,TBL,5647,4860,3528
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,53780,41432,52367
+Dec'2022,GP,18914,16870,19601
+,Robi,15558,9589,15650
+,BL,14107,9384,14101
+,TBL,5647,4864,3529
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,54226,40707,52881
+Jan'2023,GP,19014,16904,19728
+,Robi,15604,9531,15704
+,BL,14156,9385,14145
+,TBL,5650,4867,3532
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,54424,40687,53109
+Feb'2023,GP,19141,17037,19880
+,Robi,15639,9530,15781
+,BL," 14,197 "," 9,379 "," 14,190 "
+,TBL,5653,4872,3535
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,54630,40818,53386
+Mar'2023,GP,19309,17112,20103
+,Robi,15692,9494,15844
+,BL,14263,9376,14257
+,TBL,5654,4873,3538
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,54918,40855,53742
+Apr'2023,GP,19419,17173,20241
+,Robi,15746,9418,15911
+,BL,14366,9376,14360
+,TBL,5655,4873,3539
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,55186,40840,54051
+May'2023,GP,19515,17223,20412
+,Robi,15826,9418,15997
+,BL,14507,9373,14504
+,TBL,5637,4863,3529
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,55485,40877,54442
+Jun'2023,GP,19677,17258,20603
+,Robi,15876,9374,16066
+,BL,14637,9375,14635
+,TBL,5635,4861,3537
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,55825,40868,54841
+Jul'2023,GP,19813,17276,20752
+,Robi,15954,9370,16148
+,BL,14814,9355,14813
+,TBL,5631,4857,3538
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,56212,40858,55251
+Aug'2023,GP,19924,17292,20872
+,Robi,16050,8562,16257
+,BL,14925,9359,14928
+,TBL,5631,4856,3538
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,56530,40069,55595
+Sept'2023,GP,20038,17294,20981
+,Robi,16134,8096,16355
+,BL,15026,9133,15029
+,TBL,5631,4854,3538
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,56829,39377,55903
+Oct'2023,GP,20125,17118,20999
+,Robi,16192,6449,16425
+,BL,15128,9134,15130
+,TBL,5628,4851,3536
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,57073,37552,56090
+Nov'2023,GP,20178,17119,21088
+,Robi,16374,4733,16620
+,BL,15199,9132,15201
+,TBL,5627,4850,3537
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,57378,35834,56446
+Dec'2023,GP,20313,17074,21233
+,Robi,16564,2417,16814
+,BL,15207,9130,15208
+,TBL,5627,4848,3651
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,57711,33469,56906
+Jan'2024,GP,20430,15071,21297
+,Robi,16725,2336,16998
+,BL,15234,9130,15235
+,TBL,5627,4562,3685
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,58016,31099,57215
+Feb'2024,GP,20610,11505,21484
+,Robi,16842,2335,17117
+,BL,15232,9128,15233
+,TBL,5629,4448,3790
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,58313,27416,57624
+Mar'2024,GP,20801,11485,21799
+,Robi,17113,2202,17394
+,BL,15280,5844,15281
+,TBL,5637,4281,3859
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,58831,23812,58333
+Apr'2024,GP,20896,9115,21777
+,Robi,17233,2214,17516
+,BL,15274,1754,15274
+,TBL,5634,4029,3953
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,59037,17112,58520
+May'2024,GP,21040,5248,21923
+,Robi,17326,2212,17612
+,BL,15319,0,15319
+,TBL,5634,3829,3955
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,59319,11289,58809
+June'2024,GP,21166,5247,22028
+,Robi,17426,2212,17715
+,BL,15323,0,15323
+,TBL,5637,3646,4104
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,59552,11105,59170
+July'2024,GP,21267,5235,22104
+,Robi,17539,1307,17828
+,BL,15335,0,15335
+,TBL,5637,3553,4177
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,59778,10095,59444
+Aug'2024,GP,21371,5161,22172
+,Robi,17614,349,17905
+,BL,15353,0,15353
+,TBL,5637,3553,4177
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,59975,9063,59607
+Sept'2024,GP,21501,5125,22305
+,Robi,17661,0,17953
+,BL,15377,0,15377
+,TBL,5636,3397,4263
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,60175,8522,59898
+Oct'2024,GP,21755,5138,22547
+,Robi,17712,0,18007
+,BL,15378,0,15378
+,TBL,5636,3284,4334
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,60481,8422,60266
+Nov'24,GP,21970,5118,22754
+,Robi,17776,0,18070
+,BL,15376,0,15376
+,TBL,5636,3078,4407
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,60758,8196,60607
+Dec'24,GP,22245,5104,22991
+,Robi,17848,0,18148
+,BL,15399,0,15399
+,TBL,5636,3078,4407
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,61128,8182,60945
+Jan'25,GP,22370,5051,23064
+,Robi,17892,0,18184
+,BL,15390,0,15390
+,TBL,5639,2512,4543
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,61291,7563,61181
+Feb'25,GP,22433,4761,23115
+,Robi,17908,0,18201
+,BL,15391,0,15391
+,TBL,5639,2461,4555
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,61371,7222,61262
+Mar'25,GP,22531,4135,23214
+,Robi,17921,0,18218
+,BL,15384,0,15384
+,TBL,5639,2461,4555
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,61475,6596,61371
+April'25,GP,22596,4124,23281
+,Robi,17932,0,18223
+,BL,15371,0,15371
+,TBL,5639,2107,4589
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,61538,6231,61464
+May'25,GP,22687,4106,23367
+,Robi,17946,0,18237
+,BL,15354,0,15354
+,TBL,5642,2028,4647
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,61629,6134,61605
+June'25,GP,22859,3580,23542
+,Robi,17953,,18244
+,BL,15250,,15250
+,TBL,5641,1956,4679
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,61703,5536,61715
+July'25,GP,23192,3574,23703
+,Robi,17967,,18261
+,BL,15201,0,15201
+,TBL,5641,1696,4760
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,62001,5270,61925
+August'25,GP,23349,3044,23807
+,Robi,18027,,18320
+,BL,15142,0,15142
+,TBL,5641,1696,4760
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,62159,4740,62029
+Sep'25,GP,23444,2982,23796
+,Robi,18203,,18497
+,BL,15133,0,15133
+,TBL,5643,1406,4874
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,62423,4388,62300
+Oct'25,GP,23515,2962,23863
+,Robi,18395,0,18689
+,BL,15116,0,15116
+,TBL,5644,1277,4927
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,62670,4239,62595
+Nov'25,GP,23573,699,23929
+,Robi,18541,0,18838
+,BL,15130,317,15235
+,TBL,5656,1140,5031
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,62900,2156,63033
+Dec'25,GP,23557,454,23909
+,Robi,18746,,19043
+,BL," 15,125 ", 317 ," 15,125 "
+,TBL,5677,954,5244
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,63105,1725,63321
+Jan'26,GP,23633,452,23983
+,Robi,18810,,19109
+,BL," 15,121 ", 317 ," 15,121 "
+,TBL,5688,927,5281
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,63252,1696,63494
+Feb'26,GP,23598,427,23997
+,Robi,"18,825",,"19,126"
+,BL," 15,112 ", 317 ," 15,112 "
+,TBL,5721,904,5328
+,BTCL ,,,
+,Ranks,,,
+,Banglaphone ,,,
+,IPTSP,,,
+,Qubee,,,
+,Banglalion,,,
+,BIEL,,,
+,ISPs,,,
+,Total ,63256,1648,63563
